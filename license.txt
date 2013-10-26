@@ -1,0 +1,53 @@
+Cardeo Minimal - Wordpress Theme
+September 19, 2008
+
+If you have any questions about this theme, 
+please leave a comment on the blog post.
+
+http://cardeo.ca/2008/cardeo-minimal-wordpress-theme/
+
+Author:
+Cardeo Creative
+Matt Lambert 
+http://cardeo.ca
+
+--
+LICENSE
+
+This work is licensed under the Creative Commons Attribution-Share 
+Alike 2.5 Canada License. To view a copy of this license, visit 
+http://creativecommons.org/licenses/by-sa/2.5/ca/ or send a letter 
+to Creative Commons, 171 Second Street, Suite 300, San Francisco, 
+California, 94105, USA.
+
+--
+
+Installation Instructions:
+
+1. Un-zip the cardeo-minimal.zip file
+2. Upload the entire cardeo-minimal directory to your themes folder
+3. Login into your Wordpress Admin
+4. Choose Design from the main menu
+5. The Cardeo Minimal Theme should appear, select it and hit ok.
+
+--
+
+Changing the Twitter Feed to your account:
+
+1. Open the cardeo-minimal directory and open the footer.php file
+
+2. Find this line of code:
+
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/mlambert.json?callback=twitterCallback2&amp;count=1"></script>
+
+3. My Twitter username is mlambert.
+
+4. Change mlambert to whatever your Twitter username is.
+
+5. Save the file and upload it back to the cardeo-minimal theme folder,
+   over-writing the old footer.php file on the server.
+
+6. Go to your website and hit refresh, your Twitter account info should now appear.
+
+
+
